@@ -1,0 +1,58 @@
+F:\Projects\.NET\guess the name\Client\bin\Release\net8.0-windows\Client.exe
+F:\Projects\.NET\guess the name\Client\bin\Release\net8.0-windows\Client.deps.json
+F:\Projects\.NET\guess the name\Client\bin\Release\net8.0-windows\Client.runtimeconfig.json
+F:\Projects\.NET\guess the name\Client\bin\Release\net8.0-windows\Client.dll
+F:\Projects\.NET\guess the name\Client\bin\Release\net8.0-windows\Client.pdb
+F:\Projects\.NET\guess the name\Client\bin\Release\net8.0-windows\Api_Messages.dll
+F:\Projects\.NET\guess the name\Client\bin\Release\net8.0-windows\Api_Messages.pdb
+F:\Projects\.NET\guess the name\Client\obj\Release\net8.0-windows\Client.csproj.AssemblyReference.cache
+F:\Projects\.NET\guess the name\Client\obj\Release\net8.0-windows\Client.CreateRoomDialog.resources
+F:\Projects\.NET\guess the name\Client\obj\Release\net8.0-windows\Client.GameForm.resources
+F:\Projects\.NET\guess the name\Client\obj\Release\net8.0-windows\Client.OnScreenKeyboard.resources
+F:\Projects\.NET\guess the name\Client\obj\Release\net8.0-windows\Client.LoginForm.resources
+F:\Projects\.NET\guess the name\Client\obj\Release\net8.0-windows\Client.MainForm.resources
+F:\Projects\.NET\guess the name\Client\obj\Release\net8.0-windows\Client.RoomComponent.resources
+F:\Projects\.NET\guess the name\Client\obj\Release\net8.0-windows\Client.RoomsForm.resources
+F:\Projects\.NET\guess the name\Client\obj\Release\net8.0-windows\Client.WaitingForOtherPlayers.resources
+F:\Projects\.NET\guess the name\Client\obj\Release\net8.0-windows\Client.csproj.GenerateResource.cache
+F:\Projects\.NET\guess the name\Client\obj\Release\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+F:\Projects\.NET\guess the name\Client\obj\Release\net8.0-windows\Client.AssemblyInfoInputs.cache
+F:\Projects\.NET\guess the name\Client\obj\Release\net8.0-windows\Client.AssemblyInfo.cs
+F:\Projects\.NET\guess the name\Client\obj\Release\net8.0-windows\Client.csproj.CoreCompileInputs.cache
+F:\Projects\.NET\guess the name\Client\obj\Release\net8.0-windows\Client.sourcelink.json
+F:\Projects\.NET\guess the name\Client\obj\Release\net8.0-windows\Client.csproj.Up2Date
+F:\Projects\.NET\guess the name\Client\obj\Release\net8.0-windows\Client.dll
+F:\Projects\.NET\guess the name\Client\obj\Release\net8.0-windows\refint\Client.dll
+F:\Projects\.NET\guess the name\Client\obj\Release\net8.0-windows\Client.pdb
+F:\Projects\.NET\guess the name\Client\obj\Release\net8.0-windows\Client.genruntimeconfig.cache
+F:\Projects\.NET\guess the name\Client\obj\Release\net8.0-windows\ref\Client.dll
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\bin\Release\net8.0-windows\Api_Messages.deps.json
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\bin\Release\net8.0-windows\Api_Messages.runtimeconfig.json
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\bin\Release\net8.0-windows\Api_Messages.exe
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\bin\Release\net8.0-windows\Client.exe
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\bin\Release\net8.0-windows\Client.deps.json
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\bin\Release\net8.0-windows\Client.runtimeconfig.json
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\bin\Release\net8.0-windows\Client.dll
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\bin\Release\net8.0-windows\Client.pdb
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\bin\Release\net8.0-windows\Api_Messages.dll
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\bin\Release\net8.0-windows\Api_Messages.pdb
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\obj\Release\net8.0-windows\Client.csproj.AssemblyReference.cache
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\obj\Release\net8.0-windows\Client.CreateRoomDialog.resources
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\obj\Release\net8.0-windows\Client.GameForm.resources
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\obj\Release\net8.0-windows\Client.OnScreenKeyboard.resources
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\obj\Release\net8.0-windows\Client.LoginForm.resources
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\obj\Release\net8.0-windows\Client.MainForm.resources
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\obj\Release\net8.0-windows\Client.RoomComponent.resources
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\obj\Release\net8.0-windows\Client.RoomsForm.resources
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\obj\Release\net8.0-windows\Client.WaitingForOtherPlayers.resources
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\obj\Release\net8.0-windows\Client.csproj.GenerateResource.cache
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\obj\Release\net8.0-windows\Client.GeneratedMSBuildEditorConfig.editorconfig
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\obj\Release\net8.0-windows\Client.AssemblyInfoInputs.cache
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\obj\Release\net8.0-windows\Client.AssemblyInfo.cs
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\obj\Release\net8.0-windows\Client.csproj.CoreCompileInputs.cache
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\obj\Release\net8.0-windows\Client.csproj.Up2Date
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\obj\Release\net8.0-windows\Client.dll
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\obj\Release\net8.0-windows\refint\Client.dll
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\obj\Release\net8.0-windows\Client.pdb
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\obj\Release\net8.0-windows\Client.genruntimeconfig.cache
+E:\ITI\C#\project el C# 24-2-2024\Guess-the-name-game-main\Client\obj\Release\net8.0-windows\ref\Client.dll
